@@ -1,4 +1,5 @@
-﻿namespace VowelCount;
+﻿using System.Linq;
+namespace VowelCount;
 
 public static class Kata
 {
